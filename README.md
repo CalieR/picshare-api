@@ -2,7 +2,10 @@
 
 Cloned from my skeleton repo
 
-The repository for the Next.js frontend can be found here: https://github.com/CalieR/picshare-draft-web
+# Getting started
+
+1. `npm install`
+1. `npm start`
 
 # TODO's
 
